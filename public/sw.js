@@ -1,4 +1,4 @@
-const CACHE = 'bitpie-wallet-v4-light'
+const CACHE = 'bitpie-wallet-v5-pwa'
 const CORE = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg']
 
 self.addEventListener('install', (event) => {
