@@ -1,0 +1,30 @@
+{
+  "name": "Bitpie — Stablecoin Crypto Wallet",
+  "short_name": "Bitpie",
+  "description": "Billetera stablecoin multichain: USDC y USDT con envío, recepción y swap instantáneo.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "lang": "es",
+  "categories": [
+    "finance"
+  ],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
